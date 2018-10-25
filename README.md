@@ -15,7 +15,7 @@ Params:
 - data/1.jpg: souce image
 - data/1_result.jpg: result file name
 
-## Reference:
+## V0.2 reference:
 http://wap.cnki.net/touch/web/Dissertation/Article/10701-1011075451.nh.html
 http://cea.ceaj.org/CN/article/downloadArticleFile.do?attachType=PDF&id=22109
 
