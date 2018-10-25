@@ -9,7 +9,7 @@ Suppport JPG, PNG
 pip install -r requirements.txt
 
 ## Usage
-python remove_text.py 1.jpg 1_result.jpg
+python remove_text.py 1.jpg 1_result.jpg           # 1.jpg: souce image; 1_result.jpg: result file name
 
 ## Reference:
 http://wap.cnki.net/touch/web/Dissertation/Article/10701-1011075451.nh.html
