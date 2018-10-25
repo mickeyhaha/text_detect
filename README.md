@@ -1,12 +1,12 @@
 # 自然场景图片的文字区域定位及去水印
 
-## src
+## Src
 ./src/demark
 
-## install
+## Install
 pip install -r requirements.txt
 
-## Usage:
+## Usage
 python remove_text.py 1.jpg 1_result.jpg
 python remove_text.py 1.png 1_result.png
 
